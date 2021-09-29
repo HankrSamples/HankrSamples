@@ -4,6 +4,9 @@ Most of the codes display C++ Object Oreintated Programming, most are buggy and 
 I am fully open to suggestions, criticsm and advice. 
 
 You can reach me on:
+
 Discord: GoofyNPC#5940
+
 Email: Hankr001@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/richard-harris-15b950136/
